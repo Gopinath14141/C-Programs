@@ -16,18 +16,4 @@ int main()
   return 0;
 }
 
-/*#include<stdio.h>
-
-enum booleanvalue{pass,fail};
-enum result{f,p};
-int main()
-{
-enum booleanvalue b1,b2;
-b1=pass;
-b2=fail;
-printf("%d %d", b1,b2);
-
-return 0;
-}*/
-
 
